@@ -20,4 +20,4 @@
 | Keyserver | Search Result |
 | --- | :--- |
 | keys.openpgp.org | [/search?q=2A66+D55B+9053+7204+3577+7F25+6176+D31A+FA18+9AE9](https://keys.openpgp.org/search?q=2A66+D55B+9053+7204+3577+7F25+6176+D31A+FA18+9AE9) |
-| keyserver.ubuntu.com | [/pks/lookup?search=rotgrungelblab%40gmail.com&fingerprint=on&hash=on&op=index](https://keyserver.ubuntu.com/pks/lookup?search=rotgrungelblab%40gmail.com&fingerprint=on&hash=on&op=index) |
+| keyserver.ubuntu.com | [/pks/lookup?search=0xFA189AE9&fingerprint=on&hash=on&op=index](https://keyserver.ubuntu.com/pks/lookup?search=0xFA189AE9&fingerprint=on&hash=on&op=index) |
